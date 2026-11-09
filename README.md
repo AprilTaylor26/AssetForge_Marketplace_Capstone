@@ -1,4 +1,4 @@
--- Asset Management System
+--Asset Management System
 
 A web-based Asset Management System built with PHP and MySQL that allows users to manage company assets through a secure and user-friendly interface.
 
