@@ -1,8 +1,8 @@
---Asset Management System
+Asset Management System
 
 A web-based Asset Management System built with PHP and MySQL that allows users to manage company assets through a secure and user-friendly interface.
 
--- Features
+Features
 - User registration and login
 - Secure session-based authentication
 - Add new assets
@@ -13,7 +13,7 @@ A web-based Asset Management System built with PHP and MySQL that allows users t
 - Responsive navigation menu
 - MySQL database integration
   
--- Technologies Used
+Technologies Used
 - PHP
 - MySQL
 - HTML
@@ -21,7 +21,7 @@ A web-based Asset Management System built with PHP and MySQL that allows users t
 - XAMPP
 - phpMyAdmin
 
-- Usage
+Usage
 Register
   Create a new user account using the registration page.
 Login
@@ -29,7 +29,7 @@ Login
 Manage Assets
   After logging in, users can:
 
--- Future Improvements
+Future Improvements
 - Add assets
 - View asset information
 - Update asset details
