@@ -22,19 +22,18 @@ TECHNOLOGIES USED
 - phpMyAdmin
 
 USAGE
-Register
+- Register
   Create a new user account using the registration page.
-Login
+- Login
   Sign in using your registered credentials.
-Manage Assets
+- Manage Assets
   After logging in, users can:
+    - Add assets
+    - View asset information
+    - Update asset details
+    - Delete assets
 
 FUTURE IMPROVEMENTS
-- Add assets
-- View asset information
-- Update asset details
-- Delete assets
-- Future Improvements
 - Asset search and filtering
 - Asset categories
 - Image uploads for assets
