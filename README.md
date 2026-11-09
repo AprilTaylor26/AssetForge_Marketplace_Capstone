@@ -1,21 +1,42 @@
-# Asset Forge Marketplace - Capstone Project
+-- Asset Management System
 
-A cloud-hosted PHP web application designed for indie game developers and digital artists to browse, upload, and manage game development assets. 
+A web-based Asset Management System built with PHP and MySQL that allows users to manage company assets through a secure and user-friendly interface.
 
----
-
-## Planned Tech Stack:
+-- Features
+- User registration and login
+- Secure session-based authentication
+- Add new assets
+- View all assets
+- Edit existing asset information
+- Delete assets
+- Dashboard/Home page for easy navigation
+- Responsive navigation menu
+- MySQL database integration
+  
+-- Technologies Used
 - PHP
-- MySQL 
-- HTML, CSS, Javascript
-- VS Code
-- Cloud Hosting 
+- MySQL
+- HTML
+- CSS
+- XAMPP
+- phpMyAdmin
 
----
+- Usage
+Register
+  Create a new user account using the registration page.
+Login
+  Sign in using your registered credentials.
+Manage Assets
+  After logging in, users can:
 
-## Planned Features:
-- User registration, login, and password reset
-- Asset browsing and search
-- Creator dashboard for uploading any assets
-- Inventory and purchase tracking
-- Secure file handling and RBAC
+-- Future Improvements
+- Add assets
+- View asset information
+- Update asset details
+- Delete assets
+- Future Improvements
+- Asset search and filtering
+- Asset categories
+- Image uploads for assets
+- User roles and permissions
+- Reporting and analytics dashboard
